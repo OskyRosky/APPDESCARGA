@@ -1,0 +1,20 @@
+# Ignorar entorno virtual y configuraciones locales
+venv/
+.env/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales de macOS y otros sistemas
+.DS_Store
+Thumbs.db
+
+# Cachés o archivos generados por la aplicación
+*.log
+*.sqlite3
+*.db
+Downloads/
+testdescarga/
